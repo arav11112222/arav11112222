@@ -1,19 +1,12 @@
 <div align="center">
 
-# 👋 Hey, I'm Aarav
+# 👋 Hi, I'm Aarav!
 
-### 🎓 CSE Core Student @ SRM KTR | 💻 Aspiring Full-Stack Developer | 🚀 Builder
+### 🎓 CSE Core Student @ SRM KTR | 💻 Aspiring Full-Stack Developer
 
-<p>
-  <a href="https://arav11112222.github.io/updated-portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/arav11112222">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+---
 
-<img src="https://komarev.com/ghpvc/?username=arav11112222&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=arav11112222&label=Profile%20Views&color=blueviolet&style=flat-square" />
 
 </div>
 
@@ -21,16 +14,77 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Aarav**, a Computer Science Engineering student at **SRM Institute of Science and Technology, KTR**.
+I'm **Aarav**, a Computer Science Engineering student at **SRM Institute of Science and Technology, KTR**.
 
-I'm currently building my foundation in software development and working towards becoming a **Full-Stack Web Developer**.
+I'm currently focused on strengthening my programming fundamentals, learning web development, and building projects along the way.
+
+- 🎓 B.Tech CSE Core @ SRM KTR
+- 💻 Aspiring Full-Stack Web Developer
+- 🌱 Currently learning Full-Stack Development
+- 🧠 Starting my DSA journey
+- 🔐 Exploring Cybersecurity
+- 🚀 Learning by building projects
+- 📚 Always trying to improve my development skills
+
+> **Learn → Build → Improve → Repeat.**
+
+---
+
+## 🛠️ What I Work With
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 My Projects
+
+### 💰 Expense Tracker
+
+A Python mini project for recording and managing personal expenses.
+
+**Tech:** Python
+
+---
+
+### 🎓 Student Marks Management
+
+A Python mini project for entering student marks and working with academic results.
+
+**Tech:** Python
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal portfolio website showcasing my skills, projects and developer journey.
+
+**Tech:** HTML • CSS
+
+🔗 **[Visit my Portfolio](https://arav11112222.github.io/updated-portfolio/)**
+
+---
+
+## 📚 Currently Learning
 
 ```text
-🎓 B.Tech CSE Core @ SRM KTR
-💻 Aspiring Full-Stack Developer
-🌱 Currently learning Full-Stack Development
-🧠 Exploring Data Structures & Algorithms
-🐍 Python | C | C++ | Java | SQL
-🌐 HTML | CSS
-🔐 Exploring Cybersecurity
-🚀 Learning by building projects
+🌐 Full-Stack Web Development
+🧠 Data Structures & Algorithms
+☕ Java & Object-Oriented Programming
+🔐 Cybersecurity Fundamentals
+🚀 Building Real-World Projects
