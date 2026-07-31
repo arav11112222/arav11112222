@@ -88,3 +88,26 @@ My personal portfolio website showcasing my skills, projects and developer journ
 ☕ Java & Object-Oriented Programming
 🔐 Cybersecurity Fundamentals
 🚀 Building Real-World Projects
+## 📊 My GitHub Contributions
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=arav11112222&theme=radical&hide_border=true&border_radius=10" />
+
+</div>
+## 📈 My GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arav11112222&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav11112222&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" />
+
+</div>
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arav11112222&theme=react-dark&hide_border=true&area=true" width="95%" />
+
+</div>
