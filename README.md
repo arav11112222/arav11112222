@@ -78,7 +78,7 @@ My personal portfolio website showcasing my skills, projects, and developer jour
 
 **Tech:** HTML • CSS
 
-🔗 [Visit My Portfolio](https://arav11112222.github.io/updated-portfolio/)
+🔗 [Visit My Portfolio](https://arav11112222.github.io/Personal-Portfolio-Website/)
 
 ---
 
