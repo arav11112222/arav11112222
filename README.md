@@ -68,7 +68,7 @@ A Python mini project for entering student marks and working with academic resul
 
 **Tech:** Python
 
-🔗 [View Project](student_marks.py)
+🔗 [View Project](https://github.com/arav11112222/python-mini-projects/blob/main/student_marks.py)
 
 ---
 
