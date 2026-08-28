@@ -58,7 +58,7 @@ A Python mini project for recording and managing personal expenses.
 
 **Tech:** Python
 
-🔗 [View Project](https://github.com/arav11112222)
+🔗 [View Project](https://github.com/arav11112222/python-mini-projects/blob/main/expense_tracker.py)
 
 ---
 
