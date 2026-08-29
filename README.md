@@ -27,7 +27,7 @@ I'm currently focused on strengthening my programming fundamentals, learning web
 > **Learn → Build → Improve → Repeat.**
 
 ---
-
+![Snake animation](https://github.com/theaaravgupta/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ## 🛠️ What I Work With
 
 ### 💻 Programming Languages
