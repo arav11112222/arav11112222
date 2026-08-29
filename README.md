@@ -26,6 +26,10 @@ I'm currently focused on strengthening my programming fundamentals, learning web
 
 > **Learn → Build → Improve → Repeat.**
 
+
+<img src="https://raw.githubusercontent.com/arav11112222/arav11112222/main/profile-card.svg" width="300" alt="Aarav Profile Photo">
+
+
 ---
 
 ## 🛠️ What I Work With
@@ -82,6 +86,13 @@ My personal portfolio website showcasing my skills, projects, and developer jour
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arav11112222/arav11112222/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arav11112222/arav11112222/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arav11112222/arav11112222/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ## 📚 Currently Learning
 
 ```text
@@ -91,9 +102,3 @@ My personal portfolio website showcasing my skills, projects, and developer jour
 🔐 Cybersecurity Fundamentals
 🚀 Building Real-World Projects
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arav11112222/arav11112222/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arav11112222/arav11112222/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arav11112222/arav11112222/output/github-contribution-grid-snake.svg">
-</picture>
