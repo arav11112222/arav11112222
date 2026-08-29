@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <style>
+    @keyframes pulseGlow {
+      0% {
+        stroke: #ff007f;
+        stroke-width: 4;
+        filter: drop-shadow(0 0 2px #ff007f);
+      }
+      50% {
+        stroke: #00f0ff;
+        stroke-width: 8;
+        filter: drop-shadow(0 0 8px #00f0ff);
+      }
+      100% {
+        stroke: #ff007f;
+        stroke-width: 4;
+        filter: drop-shadow(0 0 2px #ff007f);
+      }
+    }
+    .neon-border {
+      animation: pulseGlow 4s infinite ease-in-out;
+      fill: none;
+    }
+  </style>
+
+  <!-- Circular Clip Path for your Photo -->
+  <defs>
+    <clipPath id="circleClip">
+      <circle cx="150" cy="150" r="130"/>
+    </clipPath>
+  </defs>
+
+  <!-- Your Photo Card -->
+  <image href="https://raw.githubusercontent.com/arav11112222/arav11112222/main/aarav.jpg" x="20" y="20" width="260" height="260" clip-path="url(#circleClip)" preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Animated Neon Ring -->
+  <circle cx="150" cy="150" r="130" class="neon-border" />
+</svg>
