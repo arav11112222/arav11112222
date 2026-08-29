@@ -27,7 +27,11 @@ I'm currently focused on strengthening my programming fundamentals, learning web
 > **Learn → Build → Improve → Repeat.**
 
 ---
-![Snake animation](https://github.com/theaaravgupta/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arav11112222/arav11112222/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arav11112222/arav11112222/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arav11112222/arav11112222/output/github-contribution-grid-snake.svg">
+</picture>
 ## 🛠️ What I Work With
 
 ### 💻 Programming Languages
