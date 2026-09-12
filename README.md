@@ -28,24 +28,13 @@ I'm currently focused on strengthening my programming fundamentals, learning web
 
 <br />
 
-<!-- Side-by-Side Section with Radiant Cyan Border -->
+<!-- Side-by-Side Container with Bright Cyan Header/Border -->
 <div align="center">
-  <table style="border: 2px solid #00f0ff; border-radius: 12px; border-collapse: separate; padding: 10px; background-color: #0d1117;">
-    <tr valign="middle">
-      <!-- Left Side: Profile Photo -->
-      <td align="center" width="40%" style="border: none;">
-        <img src="https://raw.githubusercontent.com/arav11112222/arav11112222/main/profile-card.svg" width="280" alt="Aarav Profile Photo">
-      </td>
-      <!-- Right Side: Radiant Cyan GitHub Stats Cards -->
-      <td align="center" width="60%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=arav11112222&show_icons=true&theme=cyan" alt="GitHub Stats" width="100%" />
-        <br/><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arav11112222&theme=cyan" alt="GitHub Streak" width="100%" />
-        <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav11112222&layout=compact&theme=cyan" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+
+| Profile | GitHub Statistics |
+| :-: | :-: |
+| <img src="https://raw.githubusercontent.com/arav11112222/arav11112222/main/profile-card.svg" width="260" alt="Aarav Profile Photo"> | <img src="https://github-readme-stats.vercel.app/api?username=arav11112222&show_icons=true&theme=cyan" width="380" alt="GitHub Stats" /><br/><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=arav11112222&theme=cyan" width="380" alt="GitHub Streak" /><br/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav11112222&layout=compact&theme=cyan" width="380" alt="Top Languages" /> |
+
 </div>
 
 ---
