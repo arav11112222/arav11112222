@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### 🎓 CSE Core Student @ SRM KTR | 💻 Aspiring Full-Stack Developer
+### 🎓 CSE Core Student @ SRM KTR | 💻 Web Development & Cybersecurity
 
-![Profile Views](https://komarev.com/ghpvc/?username=arav11112222&label=Profile%20Views&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=arav11112222&label=Profile%20Views&color=00d9ff&style=flat)
 
 </div>
 
@@ -14,42 +14,52 @@
 
 I'm **Aarav**, a Computer Science Engineering student at **SRM Institute of Science and Technology, KTR**.
 
-I'm currently focused on strengthening my programming fundamentals, learning web development, and building projects along the way.
+I'm interested in **web development, cybersecurity, and software development**, with a focus on learning by actually building things.
 
 - 🎓 B.Tech CSE Core @ SRM KTR
-- 💻 Aspiring Full-Stack Web Developer
-- 🌱 Currently learning Full-Stack Development
-- 🧠 Starting my DSA journey
+- 🌐 Learning Web Development
 - 🔐 Exploring Cybersecurity
-- 🚀 Learning by building projects
-- 📚 Always improving my development skills
+- 💻 Strengthening Programming Fundamentals
+- 🚀 Building projects to improve my skills
+- 📚 Learning something new every day
 
 > **Learn → Build → Improve → Repeat.**
 
-<br />
+<br>
 
-<!-- Side-by-Side Section: Profile Photo + GitHub Live Stats Cards -->
-<table border="0" align="center">
-  <tr valign="top">
-    <!-- Left Column: Your Image -->
-    <td align="center" width="40%">
-      <br />
-      <img src="https://raw.githubusercontent.com/arav11112222/arav11112222/main/profile-card.svg" width="300" alt="Aarav Profile Photo">
-    </td>
-    <!-- Right Column: Live GitHub Stats Cards (Matching Theme) -->
-    <td align="center" width="60%">
-      <img src="https://github-readme-stats.vercel.app/api?username=arav11112222&show_icons=true&theme=matrix&rank_icon=percentile" alt="GitHub Stats" width="100%" /><br/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arav11112222&theme=matrix" alt="GitHub Streak" width="100%" /><br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav11112222&layout=compact&theme=matrix" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
+<!-- PROFILE + GITHUB STATS -->
+
+<table border="1" bordercolor="#00D9FF" cellpadding="15" cellspacing="0" align="center">
+<tr>
+
+<td align="center" width="40%">
+
+<img src="https://raw.githubusercontent.com/arav11112222/arav11112222/main/profile-card.svg" width="300" alt="Aarav Profile">
+
+</td>
+
+<td align="center" width="60%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arav11112222&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&rank_icon=percentile" width="100%" alt="GitHub Stats">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arav11112222&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" width="100%" alt="GitHub Streak">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav11112222&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="100%" alt="Top Languages">
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-## 🛠️ What I Work With
+## 🛠️ Skills & Technologies
 
-### 💻 Programming Languages
+### 💻 Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
@@ -58,18 +68,24 @@ I'm currently focused on strengthening my programming fundamentals, learning web
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 🗄️ Other Technologies
+### 🔧 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🔐 Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
 
-## 🚀 My Projects
+## 🚀 Projects
 
 ### 💰 Expense Tracker
 
@@ -93,25 +109,19 @@ A Python mini project for entering student marks and working with academic resul
 
 ### 🌐 Personal Portfolio
 
-My personal portfolio website showcasing my skills, projects, and developer journey.
+My personal portfolio website showcasing my skills, projects, education, and developer journey.
 
 **Tech:** HTML • CSS
 
-🔗 [Visit My Portfolio](https://arav11112222.github.io/Personal-Portfolio-Website/)
+🔗 [Visit Portfolio](https://arav11112222.github.io/Personal-Portfolio-Website/)
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arav11112222/arav11112222/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arav11112222/arav11112222/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arav11112222/arav11112222/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## 📚 Currently Learning
 
 ```text
-🌐 Full-Stack Web Development
-🧠 Data Structures & Algorithms
-☕ Java & Object-Oriented Programming
+🌐 Web Development
 🔐 Cybersecurity Fundamentals
+☕ Java & Object-Oriented Programming
+💻 Programming Fundamentals
 🚀 Building Real-World Projects
