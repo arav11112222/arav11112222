@@ -26,9 +26,24 @@ I'm currently focused on strengthening my programming fundamentals, learning web
 
 > **Learn → Build → Improve → Repeat.**
 
+<br />
 
-<img src="https://raw.githubusercontent.com/arav11112222/arav11112222/main/profile-card.svg" width="300" alt="Aarav Profile Photo">
-
+<!-- Side-by-Side Section: Profile Photo + GitHub Live Stats Cards -->
+<table border="0" align="center">
+  <tr valign="top">
+    <!-- Left Column: Your Image -->
+    <td align="center" width="40%">
+      <br />
+      <img src="https://raw.githubusercontent.com/arav11112222/arav11112222/main/profile-card.svg" width="300" alt="Aarav Profile Photo">
+    </td>
+    <!-- Right Column: Live GitHub Stats Cards (Matching Theme) -->
+    <td align="center" width="60%">
+      <img src="https://github-readme-stats.vercel.app/api?username=arav11112222&show_icons=true&theme=matrix&rank_icon=percentile" alt="GitHub Stats" width="100%" /><br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arav11112222&theme=matrix" alt="GitHub Streak" width="100%" /><br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav11112222&layout=compact&theme=matrix" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,7 +106,6 @@ My personal portfolio website showcasing my skills, projects, and developer jour
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arav11112222/arav11112222/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arav11112222/arav11112222/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 ## 📚 Currently Learning
 
