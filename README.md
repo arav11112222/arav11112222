@@ -28,22 +28,25 @@ I'm currently focused on strengthening my programming fundamentals, learning web
 
 <br />
 
-<!-- Side-by-Side Section: Profile Photo + GitHub Live Stats Cards -->
-<table border="0" align="center">
-  <tr valign="top">
-    <!-- Left Column: Your Image -->
-    <td align="center" width="40%">
-      <br />
-      <img src="https://raw.githubusercontent.com/arav11112222/arav11112222/main/profile-card.svg" width="300" alt="Aarav Profile Photo">
-    </td>
-    <!-- Right Column: Live GitHub Stats Cards (Matching Theme) -->
-    <td align="center" width="60%">
-      <img src="https://github-readme-stats.vercel.app/api?username=arav11112222&show_icons=true&theme=matrix&rank_icon=percentile" alt="GitHub Stats" width="100%" /><br/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arav11112222&theme=matrix" alt="GitHub Streak" width="100%" /><br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav11112222&layout=compact&theme=matrix" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<!-- Side-by-Side Section with Radiant Cyan Border -->
+<div align="center">
+  <table style="border: 2px solid #00f0ff; border-radius: 12px; border-collapse: separate; padding: 10px; background-color: #0d1117;">
+    <tr valign="middle">
+      <!-- Left Side: Profile Photo -->
+      <td align="center" width="40%" style="border: none;">
+        <img src="https://raw.githubusercontent.com/arav11112222/arav11112222/main/profile-card.svg" width="280" alt="Aarav Profile Photo">
+      </td>
+      <!-- Right Side: Radiant Cyan GitHub Stats Cards -->
+      <td align="center" width="60%" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=arav11112222&show_icons=true&theme=cyan" alt="GitHub Stats" width="100%" />
+        <br/><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arav11112222&theme=cyan" alt="GitHub Streak" width="100%" />
+        <br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav11112222&layout=compact&theme=cyan" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -115,4 +118,3 @@ My personal portfolio website showcasing my skills, projects, and developer jour
 ☕ Java & Object-Oriented Programming
 🔐 Cybersecurity Fundamentals
 🚀 Building Real-World Projects
-
