@@ -27,33 +27,39 @@ I'm interested in **web development, cybersecurity, and software development**, 
 
 <br>
 
-<!-- PROFILE + GITHUB STATS -->
+---
 
-<table border="1" bordercolor="#00D9FF" cellpadding="15" cellspacing="0" align="center">
+## ⚡ GitHub Stats ⚡
+
+<div align="center">
+
+<table>
 <tr>
 
-<td align="center" width="40%">
+<td align="center" width="50%">
 
-<img src="https://raw.githubusercontent.com/arav11112222/arav11112222/main/profile-card.svg" width="300" alt="Aarav Profile">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arav11112222&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="100%" alt="GitHub Streak">
 
 </td>
 
-<td align="center" width="60%">
+<td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arav11112222&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&rank_icon=percentile" width="100%" alt="GitHub Stats">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arav11112222&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" width="100%" alt="GitHub Streak">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav11112222&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="100%" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=arav11112222&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&rank_icon=percentile&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats">
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav11112222&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" width="450" alt="Most Used Languages">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arav11112222&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph">
+
+</div>
 
 ---
 
