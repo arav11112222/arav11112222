@@ -93,9 +93,11 @@ A smart civic issue reporting platform designed to connect citizens with relevan
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=arav11112222&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=arav11112222&show_icons=true&theme=github_dark&hide_border=true"
     alt="Aarav's GitHub Stats"
   />
 </p>
@@ -109,7 +111,7 @@ A smart civic issue reporting platform designed to connect citizens with relevan
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arav11112222&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=arav11112222&layout=compact&theme=github_dark&hide_border=true"
     alt="Aarav's Most Used Languages"
   />
 </p>
@@ -149,11 +151,3 @@ A smart civic issue reporting platform designed to connect citizens with relevan
 
 ---
 
-## 🎯 Current Focus
-
-```text
-🌐 Full-Stack Development
-🔐 Cybersecurity
-💻 Programming Fundamentals
-🚀 Project Building
-📚 Continuous Learning
