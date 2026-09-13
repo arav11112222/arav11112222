@@ -81,39 +81,23 @@ My personal portfolio website showcasing my skills, projects, and developer jour
 
 ---
 
-### 🏙️ CityPulse
-
-A smart civic issue reporting platform designed to connect citizens with relevant departments and improve the tracking and resolution of urban problems.
-
-**Tech:** React • TypeScript • Tailwind CSS • Express • MapLibre • OpenStreetMap
-
-🔗 [View Project](https://city-plus-eta.vercel.app/)
-
----
+## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats-pq7rtjx3o-arav11112222.vercel.app/api?username=arav11112222&show_icons=true&theme=dark&hide_border=true"
+    src="https://github-readme-stats-pink-six-48.vercel.app/api?username=arav11112222&show_icons=true&theme=dark&hide_border=true"
     alt="Aarav's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.herokuapp.com/?user=arav11112222&theme=dark&hide_border=true"
-    alt="Aarav's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-pq7rtjx3o-arav11112222.vercel.app/api/top-langs?username=arav11112222&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats-pink-six-48.vercel.app/api/top-langs?username=arav11112222&layout=compact&theme=dark&hide_border=true"
     alt="Aarav's Most Used Languages"
   />
 </p>
-
 ---
 
 ## 🐍 Contribution Graph
