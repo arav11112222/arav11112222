@@ -83,8 +83,6 @@ My personal portfolio website showcasing my skills, projects, and developer jour
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img
     src="https://github-readme-stats-pink-six-48.vercel.app/api?username=arav11112222&show_icons=true&theme=dark&hide_border=true"
